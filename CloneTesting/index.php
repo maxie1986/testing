@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        echo "HOLA MAXIMO";
+        echo "Hello World!";
         ?>
     </body>
 </html>
