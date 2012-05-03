@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        echo "Hello World!";
+        echo "Hello World! I'm MAX";
         ?>
     </body>
 </html>
