@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        echo "Hello World!!!! I'm Max";
+        echo "Hello World!!!! Testing develop branch";
         ?>
     </body>
 </html>
