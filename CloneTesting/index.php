@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        echo "Hello World!!!! Testing develop branch";
+        echo "BYE World!!!! Testing develop branch";
         ?>
     </body>
 </html>
