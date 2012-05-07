@@ -5,10 +5,6 @@
         <title></title>
     </head>
     <body>
-        <?php
-        echo "BYE World!!!! Fixing bug in master branch";
-	echo "making a change";
-        ?>
 	<?php 
 	echo "Mike's new feature";
 	?>
