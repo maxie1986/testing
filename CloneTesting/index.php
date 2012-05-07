@@ -10,7 +10,7 @@
 	echo "making a change";
         ?>
 	<?php 
-	echo "mike's new feature";
+	echo "Mike's new feature";
 	?>
     </body>
 </html>
