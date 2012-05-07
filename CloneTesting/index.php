@@ -7,7 +7,7 @@
     <body>
         <?php
         echo "BYE World!!!! Fixing bug in master branch";
-	echo "adding a release";
+	echo "making a change";
         ?>
     </body>
 </html>
